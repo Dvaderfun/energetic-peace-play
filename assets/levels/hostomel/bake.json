@@ -1,0 +1,53 @@
+{
+ "name": "hostomel",
+ "hash": "c9825a13",
+ "geometry": "geometry.glb",
+ "lightmap": "lightmap.ktx2",
+ "scale": 0.23298870027065277,
+ "meshes": [
+  "static-0",
+  "static-1",
+  "static-2",
+  "static-3",
+  "static-4",
+  "static-8",
+  "static-9",
+  "static-10",
+  "static-11",
+  "static-12",
+  "static-13",
+  "static-14",
+  "static-15",
+  "static-16",
+  "static-17",
+  "static-18",
+  "static-19",
+  "static-20",
+  "static-21",
+  "static-22",
+  "static-23",
+  "static-24",
+  "static-25",
+  "static-26",
+  "static-27"
+ ],
+ "settings": {
+  "size": 1024,
+  "samples": 256,
+  "aoSamples": 96,
+  "aoDistance": 3,
+  "bounces": 3,
+  "intensityScale": 1,
+  "bounds": {
+   "minX": -75,
+   "maxX": 75,
+   "minZ": -125,
+   "maxZ": 80,
+   "minY": -0.05,
+   "maxY": 40
+  }
+ },
+ "baked": "2026-09-29T21:25:34.626Z",
+ "blender": "Blender 5.2",
+ "device": "OPTIX"
+}
