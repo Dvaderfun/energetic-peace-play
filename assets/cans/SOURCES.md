@@ -9,6 +9,7 @@ Source page: https://www.nonstop.ua/ (redirects to the Non Stop Energy brand web
 - `nonstop-green-reference.png`: official green **Non Stop S.T.A.L.K.E.R. Limited Edition** can, https://nonstop-energy.com/wp-content/uploads/2024/05/ns_green_c500.png
 - `nonstop-original-reference.png`: official **Non Stop Original** 500 ml can, https://nonstop-energy.com/wp-content/uploads/2024/05/ns_orig_c500_v2.png
 - `nonstop-zero-reference.png`: official **Non Stop Original Zero Sugar** 500 ml can, https://nonstop-energy.com/wp-content/uploads/2024/05/ns_orig_zero_c500.png
+- `nonstop-spark-reference.png`: official **Non Stop Spark Zero Sugar** 500 ml can, https://nonstop-energy.com/wp-content/uploads/2024/05/ns_spark_zero_c500.png
 
 The game inverse projects the front of each product photograph onto a cylindrical label. The unseen label backs, wear, materials, limbs and equipment are generated for the game. The gas mask illustration is printed label artwork, not a separate head or face. The real green STALKER packaging is preserved.
 
