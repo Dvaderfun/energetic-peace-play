@@ -1,9 +1,9 @@
 {
  "name": "hostomel",
- "hash": "30c92af3",
+ "hash": "e4b9c5eb",
  "geometry": "geometry.glb",
  "lightmap": "lightmap.ktx2",
- "scale": 0.2323285937309265,
+ "scale": 0.28306835889816284,
  "meshes": [
   "static-0",
   "static-1",
@@ -40,7 +40,7 @@
    "maxY": 40
   }
  },
- "baked": "2026-10-04T11:45:40.934Z",
+ "baked": "2026-10-04T14:01:00.182Z",
  "blender": "Blender 5.2",
  "device": "OPTIX"
 }

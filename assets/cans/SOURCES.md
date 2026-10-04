@@ -51,3 +51,13 @@ Downloaded 2026-09-28 from the [official brand catalog](https://corporate.baltik
 | `baltika-9-reference.webp` | https://corporate.baltika.ru/wp-content/uploads/2026/06/baltika_can_b9_front-4swjzr-1.png |
 
 Original transparent PNGs are converted to WebP. For each `baltika-N-label.webp`, the visible package bounds are detected from alpha >25, then the front label is cropped: 10–90% of width, 58–91% of bottle height, or 12–90% of the №9 can height. Crops are resized to 512×512. As of 2026-09-29, **all eight Baltika characters use aluminium cans**, including a lid and pull tab. Only the label artwork is projected onto the can; bottle silhouettes are not used in the game. The adapted wraps are not claimed to reproduce retail can designs exactly. Uniforms, helmets, shields and weapon geometry are procedural.
+
+
+## Going Dark — процедурні етикетки
+
+- **Квас Тарас Чорний** (ПЕТ 1,5 л, Carlsberg Ukraine): темна етикетка, козак з оселедцем і вусами, «КВАС ТАРАС · ЧОРНИЙ». Назва й різновид звірені з [карткою товару](https://novus.zakaz.ua/uk/products/kvas-kvas-taras-500ml--04820000457521/) та [Untappd](https://untappd.com/b/carlsberg-ukraine-kvass-taras-chornyi-kvas-taras-chornij/1515439); малюнок — інтерпретація гри, не скан.
+- **Уманське Житнє темне** (Уманьпиво, 4,5 %): бордова банка з колосками жита. Назва й міцність — з [картки товару](https://novus.zakaz.ua/uk/products/pivo-ukrayina--04820009944466/). У грі все пиво — банки.
+- **Жигулёвское, Охота Крепкое, Клинское**: процедурні етикетки з назвами сортів; кольори й композиція вигадані.
+- **REVO** на скидах дронів — чорна банка з процедурним написом.
+
+Усі ці етикетки намальовані в `src/content/characters.js` і запечені в `public/assets/characters/can-labels.ktx2` (`npm run build:can-labels`).
