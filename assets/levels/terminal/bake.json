@@ -1,9 +1,9 @@
 {
  "name": "terminal",
- "hash": "cb94f4b5",
+ "hash": "bb3960cb",
  "geometry": "geometry.glb",
  "lightmap": "lightmap.ktx2",
- "scale": 2.8598268032073975,
+ "scale": 2.288052797317505,
  "meshes": [
   "static-0",
   "static-1",
@@ -14,10 +14,11 @@
   "static-6",
   "static-7",
   "static-8",
-  "static-12",
-  "static-13",
+  "static-9",
   "static-14",
-  "static-15"
+  "static-15",
+  "static-16",
+  "static-17"
  ],
  "settings": {
   "size": 1024,
@@ -54,7 +55,7 @@
    "samples": 256
   }
  },
- "baked": "2026-10-01T23:54:12.386Z",
+ "baked": "2026-10-04T11:45:06.746Z",
  "blender": "Blender 5.2",
  "device": "OPTIX",
  "probe": {
